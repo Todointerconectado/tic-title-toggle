@@ -1,0 +1,16 @@
+{
+  "name": "tic-title-toggle",
+  "version": "1.0.0",
+  "description": "A module to change the document title on visibility change",
+  "main": "src/app.mjs",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["title", "changer", "document", "visibility"],
+  "author": {
+    "name": "Francisco Carusso",
+    "url":  "https://todointerconectado.com"
+  },
+  "license": "Apache-2.0"
+}
